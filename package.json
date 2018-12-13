@@ -1,4 +1,10 @@
 {
+  "description": "Advanced JavaScript debugging",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echeveria/js-advanced-debug-workshop.git"
+  },
   "dependencies": {
     "http-server": "^0.11.1"
   },
